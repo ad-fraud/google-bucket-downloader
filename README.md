@@ -22,3 +22,7 @@ The common issues this script solves:
 If you don't know the number of files in the folder, you can get the number easily by: 
 
     gsutil ls gs://PATH_TO_FILES | sed '1d' | wc -l 
+
+#### IMPORTANT NOTE
+
+You might have to chance code on rows 8 and 47 according to the format of the filename/path. 
