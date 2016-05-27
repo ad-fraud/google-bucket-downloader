@@ -11,11 +11,11 @@ The common issues this script solves:
 
 1) copy the script to the folder you want to download files to and 
 
-    chmod +x dowload.sh
+    chmod +x dowloader.sh
     
 2) execute 
 
-    ./download.sh
+    ./downloader.sh
     
 3) input path to the folder and number of files in the folder
 
